@@ -1,2 +1,1 @@
-# type
-WAEC Maths question generator built with python 
+# waec-maths-quiz-generator
